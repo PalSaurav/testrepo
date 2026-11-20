@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true,timeFromCreateToActivate=19000" db_object_id="4c3e17eb932c171025ab371efaba10e8" extends="task" label="test" max_length="40" name="x_2270132_dummyapp_test" type="collection"/>
+</database>
