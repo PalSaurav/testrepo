@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-20 19:00:21</sys_created_on>
+        <sys_id>f14ddb6b932c171025ab371efaba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2270132_dummyapp_test_saurav.x_2270132_dummyapp.saurav</sys_name>
+        <sys_package display_value="DummyApp" source="x_2270132_dummyapp">4dec5b2b932c171025ab371efaba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DummyApp">4dec5b2b932c171025ab371efaba102f</sys_scope>
+        <sys_security_acl display_value="x_2270132_dummyapp_test_saurav">254ddb6b932c171025ab371efaba10af</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f14ddb6b932c171025ab371efaba10b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-20 19:00:21</sys_updated_on>
+        <sys_user_role display_value="x_2270132_dummyapp.saurav" name="x_2270132_dummyapp.saurav">094ddb6b932c171025ab371efaba103e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
